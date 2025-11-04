@@ -4,5 +4,5 @@ Input: Valor investido mensal
 Tempo
 Taxa rendimento mensal
 Responderá:
-PAtrimônio Acumulado
+Patrimônio Acumulado
 Dividendos Mensais
